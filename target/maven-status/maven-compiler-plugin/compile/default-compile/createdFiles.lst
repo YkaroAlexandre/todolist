@@ -1,0 +1,10 @@
+br\com\ykaro\todolist\TodolistApplication.class
+br\com\ykaro\todolist\utils\Utils.class
+br\com\ykaro\todolist\user\UserController.class
+br\com\ykaro\todolist\user\UserModel.class
+br\com\ykaro\todolist\filter\FilterTaksAuth.class
+br\com\ykaro\todolist\errors\ExceptionHandlerController.class
+br\com\ykaro\todolist\task\ITaskRepository.class
+br\com\ykaro\todolist\user\IUserRepository.class
+br\com\ykaro\todolist\task\TaskModel.class
+br\com\ykaro\todolist\task\TaskController.class
